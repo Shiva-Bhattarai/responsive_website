@@ -45,7 +45,7 @@ section {
     background-color: burlywood;
 }
 
-//---------------------Media  Query--------------
+//----------------Media  Query--------------
 
 @media (max-width: 991.5px) {
     #chicken,
