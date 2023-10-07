@@ -59,7 +59,7 @@ section {
     }
 }
 
-@media (max-width: 767.5px) {
+@media (max-width: 765px) {
     #chicken,
     #beef,
     #sushi {
