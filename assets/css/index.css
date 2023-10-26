@@ -52,6 +52,7 @@ section {
 
 //-------------Media  Query--------------
 
+
 @media (max-width: 990px) {
     #chicken,
     #beef {
